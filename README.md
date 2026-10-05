@@ -2,6 +2,10 @@
 
 讓 3～5 歲孩子在台灣主題練習場認識起飛、轉彎與降落的親子手機 3D 遊戲。預設小小飛行員模式，提供 64px 以上大按鈕、簡短繁中語音與相同字幕；另有家長完整手動模式。Three.js、原創 Blender 高翼飛機、真正 IMG UV 材質、觸控操縱桿與動態六大儀表。程式、模型、貼圖及聲音程式採 MIT 開源。
 
+[手機直接玩](https://mars-tw.github.io/island-flight-school/) · [公開原始碼](https://github.com/mars-tw/island-flight-school) · [下載完整開源包](https://mars-tw.github.io/island-flight-school/downloads/flight-school-source.zip)
+
+網站已透過 GitHub Pages 公開，電腦不需要開機。使用 Safari 或 Chrome 可加入主畫面；第一次完整載入後，可離線遊玩。
+
 ## 可以玩什麼
 
 - 花東海岸、縱谷練習場、澎湖離島：原創台灣主題地景，非測繪或真實機場資料。
