@@ -1,0 +1,16 @@
+node_modules/
+dist/
+release/
+.audit-tmp/
+.DS_Store
+*.blend1
+*.log
+output/
+.playwright-cli/
+.playwright/
+__pycache__/
+*.pyc
+*.zip
+.env
+.env.*
+!.env.example
