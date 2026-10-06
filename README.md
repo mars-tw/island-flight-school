@@ -1,3 +1,11 @@
+# 已合併至島嶼交通學院
+
+此儲存庫保留為合併前的歷史來源。後續開發、模型與更新都在 [共同專案](https://github.com/mars-tw/taiwan-island-drive)。
+
+**[直接玩合併版](https://mars-tw.github.io/taiwan-island-drive/flight/)** · [交通學院大廳](https://mars-tw.github.io/taiwan-island-drive/)
+
+---
+
 # 島嶼飛行學校 / Island Flight School
 
 讓 3～5 歲孩子在台灣主題練習場認識起飛、轉彎與降落的親子手機 3D 遊戲。預設小小飛行員模式，提供 64px 以上大按鈕、簡短繁中語音與相同字幕；另有家長完整手動模式。Three.js、原創 Blender 高翼飛機、真正 IMG UV 材質、觸控操縱桿與動態六大儀表。程式、模型、貼圖及聲音程式採 MIT 開源。
